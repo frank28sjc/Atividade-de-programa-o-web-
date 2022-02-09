@@ -1,12 +1,12 @@
-´<!DOCTYPE html>´
-´<html>´
-´<head>´
-    ´<title>´
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
         Aula 02.02
-    ´</title>´
-´</head>´
-    ´<body bgcolor="Gray">´
-        ´<h1>Formulario</h1>´
+    </title>
+</head>
+    <body bgcolor="Gray">
+        <h1>Formulario</h1>
         <form>
            <label>Nome</label><div>
             <input type="text" id="nome" required><br>
@@ -21,7 +21,7 @@
             <input type="password" id="senha" required>
             
                 </div>
-            Sexo <div>
+            <label>Sexo</label> <div>
             <select>
                 <option value="Masculino">Masculino</option>
                 <option value="Femenino"> Femenino</option>

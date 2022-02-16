@@ -8,3 +8,8 @@ a.dev{
 a.scrum{
     color: yellow;
 }
+body{
+    color:rgb(1, 54, 49);
+    background: lightgrey;
+    font-weight: bold;
+}
